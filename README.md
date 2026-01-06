@@ -23,7 +23,7 @@ The goal is to provide the regional manager with actionable insights regarding s
 
 Total Revenue shows strong month-over-month growth, peaking in May and June: 
 
-![monthly_revenue](./graph_images_py\monthly_revenue.png)
+![monthly_revenue](./graph_images_py/monthly_revenue.png)
 
 
 ### 2. Morning Peak Dominance: 
@@ -31,14 +31,14 @@ Total Revenue shows strong month-over-month growth, peaking in May and June:
 Customer traffic is highest between **08:00** and **11:00**.  
 With a notable peak of over 18K transactions at **10:00** 
 
-![hourly_transactions](./graph_images_py\horuly_trans_ditribution.png)
+![hourly_transactions](./graph_images_py/horuly_trans_ditribution.png)
 
 
 ### 3. High-Value Morning Window: 
 
 Revenue generation peaks between **08:00** and **11:00**, mirroring foot traffic and identifying the most profitable period for daily operations.
 
-![hourly_revenue](./graph_images_py\hourly_revenue.png)
+![hourly_revenue](./graph_images_py/hourly_revenue.png)
 
 
 
@@ -49,27 +49,27 @@ Revenue generation peaks between **08:00** and **11:00**, mirroring foot traffic
 
 Beverages are the primary sales drivers, with Coffee and Tea accounting for the vast majority of all transactions: 
 
-![products_transactions](./graph_images_py\products_cat_trans_count.png)
+![products_transactions](./graph_images_py/products_cat_trans_count.png)
 
 
 ### 5. Products Revenue Generation:
 
 Coffee is the primary revenue driver, contributing over $250K—more than double the revenue of the Bakery and Drinking Chocolate categories combined.
 
-![products_revenue](./graph_images_py\products_cat_revenue.png)
+![products_revenue](./graph_images_py/products_cat_revenue.png)
 
 ### 6. Stores' Transaction Distribution:
 
 Transaction volume is remarkably consistent across all three New York locations, with Hell's Kitchen and Astoria leading slightly at over 50K transactions each.
 
-![stores_trans](./graph_images_py\stores_transaction_count.png)
+![stores_trans](./graph_images_py/stores_transaction_count.png)
 
 
 ### 7. Store's Revenue Distribution: 
 
 Total revenue is exceptionally well-balanced across all three locations, with each store contributing approximately $230K, demonstrating a consistent and scalable business model.
 
-![stores_revenue](./graph_images_py\stores_revenue.png)
+![stores_revenue](./graph_images_py/stores_revenue.png)
 
 
 
