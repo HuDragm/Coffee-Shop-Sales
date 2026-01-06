@@ -4,18 +4,16 @@
 
 1. Total Revenue: (Sum of unit_price * transaction_qty).
 
-2. Product Churn: Identifying products with zero sales over a specific period (7+ days).
+2. Footfall/Traffic: Number of transactions per hour. (Hourly Transaction Velocity (HTV): Average number of transactions processed per hour.)
 
-3. Footfall/Traffic: Number of transactions per hour. (Hourly Transaction Velocity (HTV): Average number of transactions processed per hour.)
+3. Unit Concentration: Which product category (Coffee vs. Tea vs. Bakery) contributes most to the volume?
 
-4. Unit Concentration: Which product category (Coffee vs. Tea vs. Bakery) contributes most to the volume?
-
-5. Location Index: A comparison score of how Store A performs against Store B in terms of total volume.
+4. Location Index: A comparison score of how Store A performs against Store B in terms of total volume.
 
 
 ## Possible Business Questions:
 
-- Operational Efficiency: "What are the peak transaction hours by location (Store ID) to optimize staffing schedules?"
+- Operational Efficiency: "What are the peak transaction hours by location (Store ID) to optimise staffing schedules?"
 
 - Category Contribution: Which product_category generates the most revenue vs. the most volume?
 
