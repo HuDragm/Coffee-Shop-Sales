@@ -13,7 +13,7 @@
 5. Location Index: A comparison score of how Store A performs against Store B in terms of total volume.
 
 
-## Possible Business QUestions:
+## Possible Business Questions:
 
 - Operational Efficiency: "What are the peak transaction hours by location (Store ID) to optimize staffing schedules?"
 
