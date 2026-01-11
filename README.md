@@ -27,13 +27,13 @@ Monthly transaction volume doubles from January to June, showing strong positive
 
 ### 2. Consistent Monthly Financial Growth:
 
-Mirroring the transaction trend, total revenue saw a sustained monthly increase, doubling from **~$80K** in January to a peak of over **~$160K** in June
+Mirroring the transaction trend, total revenue saw a sustained monthly increase, doubling from **\~$80K** in January to a peak of over **\~$160K** in June
 
 ![monthly_revenue](./graph_images_py/monthly_revenue.png)
 
 
 ### 3. Consistent Weekly Foot Traffic: 
-Daily transactions show minimal variance, peaking slightly on **Fridays** and **Mondays** while maintaining a solid floor of **~20K** even on **Saturdays**. 
+Daily transactions show minimal variance, peaking slightly on **Fridays** and **Mondays** while maintaining a solid floor of **\~20K** even on **Saturdays**. 
 
 ![daily_transactions](./graph_images_py/trans_per_day.png)
 
@@ -94,7 +94,7 @@ The **Scone's** jump in ranking from **volume (10th)** to **frequency (7th)** hi
 
 ### 12. Top 10 Product Types by Total Revenue Generation
 Financial leadership is anchored by **Barista Espresso**, which generates over **$90K** in total revenue.  
-While **Hot Chocolate** ranks 5th in units sold and 4th in frequency, it rises to **3rd in total revenue (~$70k)**.  
+While **Hot Chocolate** ranks 5th in units sold and 4th in frequency, it rises to **3rd in total revenue (\~$70k)**.  
 This indicates a higher price-per-unit compared to high-frequency items like **Brewed Chai tea**, which leads in volume but yields lower total revenue relative to its sales velocity.
 
 ![top1 0_product_type_revenue](./graph_images_py/top10_products_revenue.png)
@@ -115,7 +115,7 @@ While "Coffee" as a category has the highest overall frequency, the individual i
 
 ### 15. Top 10 Specific Items by Total Revenue Generation:
 
-The top 10 revenue-generating items are led by premium specialty coffees, with a significant revenue gap between the top two performers (~$21K) and the 10th-ranked "Brazilian Lg" (~$15K). The data suggests that **premium-priced organic and specialty latte/cappuccino variants** constitute the core of company's financial success.  
+The top 10 revenue-generating items are led by premium specialty coffees, with a significant revenue gap between the top two performers (\~$21K) and the 10th-ranked "Brazilian Lg" (\~$15K). The data suggests that **premium-priced organic and specialty latte/cappuccino variants** constitute the core of company's financial success.  
 Analysis of individual Stock Keep Unit (SKU) performance reveals that **"Sustainably Grown Organic Lg"** and **"Dark Chocolate Lg"** are the primary revenue drivers, both exceeding **$20K** in total sales. There is a clear trend toward "Large" format beverages and organic specialty items, which consistently outperform standard menu offerings. 
 
 ![top 10 items in terms of revenue](./graph_images_py/top10_items_by_revenue.png)
@@ -144,9 +144,9 @@ Total revenue is exceptionally well-balanced across all three locations, with ea
 
 - **Aggressive Revenue Trajectory:** The chain demonstrated exceptional growth, with both monthly transaction volume and total revenue doubling between January and June.
 
-- **Geographic Uniformity:** Revenue (~$230K/store) and transactions (~50K/store) are remarkably consistent across Astoria, Hell's Kitchen, and Lower Manhattan. This indicates a highly **standardised and scalable business model** that is not dependent on a single "star" location.
+- **Geographic Uniformity:** Revenue (\~$230K/store) and transactions (\~50K/store) are remarkably consistent across Astoria, Hell's Kitchen, and Lower Manhattan. This indicates a highly **standardised and scalable business model** that is not dependent on a single "star" location.
 
-- **Predictable Daily Flow:** A stable floor of ~20K transactions even on Saturdays suggests a loyal customer base that maintains routine even outside of the standard work week.
+- **Predictable Daily Flow:** A stable floor of \~20K transactions even on Saturdays suggests a loyal customer base that maintains routine even outside of the standard work week.
 
 ### High-Efficiency Operational Windows: 
 
@@ -166,7 +166,7 @@ These bakery items act as "anchors" for repeat visits. There is a significant op
 
 ### . Pricing & Margin Insights: 
 
-- **The Tea Margin Gap:** Tea leads in specific item sales volume (e.g., Earl Grey Rg at ~5K units), yet the category yields lower total revenue relative to its velocity. 
+- **The Tea Margin Gap:** Tea leads in specific item sales volume (e.g., Earl Grey Rg at \~5K units), yet the category yields lower total revenue relative to its velocity. 
 
 - **Product Tiering:** High-frequency items like **Barista Espresso** and **Hot Chocolate** (the #3 revenue driver) provide better margin-to-volume ratios than brewed teas. 
 
